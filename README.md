@@ -27,3 +27,6 @@ npm i
 ng serve
 
 Visit http://localhost:4200 to view the app locally.
+
+## Screen-Shot
+<img width="1028" height="638" alt="Screenshot 2025-07-16 at 6 00 58 PM" src="https://github.com/user-attachments/assets/a8c17e81-cc66-4b9d-8e92-532c3b900fb4" />
